@@ -28,7 +28,7 @@ I am looking for a remote role in software development, software management or s
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[CLI-Escape](https://tangled.org/benjaminsls.tngl.sh/CLI-Escape)** | A command-line escape/text-adventure game with modular code and clean terminal UX. | Python |
+| **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape/text-adventure game with modular code and clean terminal UX. | Python |
 | **[NixOS-Redmont](https://tangled.org/benjaminsls.tngl.sh/NixOS-Redmont)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager, sops-nix |
 
 ## Skills
@@ -43,6 +43,7 @@ I am looking for a remote role in software development, software management or s
 ## Find Me
 
 - **LinkedIn** [linkedin.com/in/benjamin-lashell](https://www.linkedin.com/in/benjamin-lashell/)
+- **Github** [github.com/BenjaminSLS](https://github.com/BenjaminSLS)
 - **Tangled:** [tangled.org/benjaminsls.tngl.sh](https://tangled.org/benjaminsls.tngl.sh)
 - **Email:** benjamin@lashell.mailer.me
 
