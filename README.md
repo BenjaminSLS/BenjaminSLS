@@ -32,7 +32,7 @@ I am looking for a remote junior role in software development or system administ
 | --- | --- | --- |
 | **[NixOS-Redmont](https://github.com/BenjaminSLS/NixOS-Redmont)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager, sops-nix |
 | **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape game with modular code and clean terminal UX. | Python |
-| **[Select_the_Star](https://github.com/BenjaminSLS/Select_the_Star)** | A command-line game where the user has to choose the row and column the star has been placed in. | Python |
+| **[Select-the-Star](https://github.com/BenjaminSLS/Select-the-Star)** | A command-line game where the user has to choose the row and column the star has been placed in. | Python |
 
 ## Tools
 
