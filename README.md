@@ -18,7 +18,7 @@ I am a student who cares about building software and systems that respect the pe
 - I have used Linux for over 8 years and NixOS for over 3.
 - I care about security-respecting tools that provide understandable and honest results.
 - I learn Python and Nix so I can build and debug software, and define reproducible systems in code.
-- I am often given more responsibilities than I ask for when working in groups. On a group project I was chosen by my team to lead and review the application before we submitted it.
+- I am often given more responsibilities than I ask for when working in groups. On a group project I was chosen by my team to lead and review the application.
 - I work and learn well without close supervision, and I would rather explain a fix so someone understands it than simply apply it for them.
 - I would rather ship something with good documentation and reproducibility than a cluttered, buggy mess that only works on my machine.
 
@@ -31,7 +31,8 @@ I am looking for a remote junior role in software development or system administ
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[NixOS-Redmont](https://github.com/BenjaminSLS/NixOS-Redmont)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager, sops-nix |
-| **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape/text-adventure game with modular code and clean terminal UX. | Python |
+| **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape game with modular code and clean terminal UX. | Python |
+| **[Select_the_Star](https://github.com/BenjaminSLS/Select_the_Star)** | A command-line game where the user has to choose the row and column the star has been placed in. | Python |
 
 ## Tools
 
@@ -51,7 +52,7 @@ I am looking for a remote junior role in software development or system administ
 - **Email:** benjamin@lashell.mailer.me
 - **LinkedIn:** [linkedin.com/in/benjamin-lashell](https://www.linkedin.com/in/benjamin-lashell/)
 - **GitHub:** [github.com/BenjaminSLS](https://github.com/BenjaminSLS)
-- **BlueSky:** [bsky.app/profile/benjaminsls.tngl.sh](https://bsky.app/profile/benjaminsls.tngl.sh)
+- **Bluesky:** [bsky.app/profile/benjaminsls.tngl.sh](https://bsky.app/profile/benjaminsls.tngl.sh)
 - **Tangled:** [tangled.org/benjaminsls.tngl.sh](https://tangled.org/benjaminsls.tngl.sh)
 
 <sub>Last updated: October 2026</sub>
