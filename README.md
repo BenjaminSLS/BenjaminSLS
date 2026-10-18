@@ -30,7 +30,8 @@ I am looking for a remote junior role in software development or system administ
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[NixOS-Redmont](https://github.com/BenjaminSLS/NixOS-Redmont)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager, sops-nix |
+| **[NixOS-Public](https://github.com/BenjaminSLS/NixOS-Public)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager |
+| **[NixOS-Private](https://github.com/BenjaminSLS/NixOS-Public)** | An example of the private directory used for keeping your personal information in check.
 | **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape game with modular code and clean terminal UX. | Python |
 | **[Select-the-Star](https://github.com/BenjaminSLS/Select-the-Star)** | A command-line game where the user has to choose the row and column the star has been placed in. | Python |
 
@@ -44,7 +45,7 @@ I am looking for a remote junior role in software development or system administ
 | Editors | Helix, Vim, Zed, VS Code |
 | Artificial Intelligence | Kagi Assistant |
 | Productivity | Proton Suite, LibreOffice, Notesnook |
-| Config Management | Flakes, Home Manager, sops-nix |
+| Config Management | Flakes, Home Manager |
 | Shell & Terminal | Rio, Nushell, Zoxide |
 
 ## Contact
