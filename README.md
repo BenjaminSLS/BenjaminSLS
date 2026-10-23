@@ -13,10 +13,10 @@
 
 ## About Me
 
-I am a student who cares about building software and systems that respect the people who use them. My interests sit where **security** and **reproducibility** meet — I value software that does not falter and can provide an honest and verifiable account of its true purpose.
+I am a student who cares about building software and systems that respect the people who use them. My interests sit where **reproducibility** and **honesty** meet — I value software that does not falter and can provide an honest and verifiable account of its true purpose.
 
 - I have used Linux for over 8 years and NixOS for over 3.
-- I care about security-respecting tools that provide understandable and honest results.
+- I care about security and privacy respecting tools that provide understandable and honest results.
 - I build with Python and Nix so I can create and debug the software I want and define reproducible systems in code.
 - I am often given more responsibilities than I ask for when working in groups. On a group project I was chosen by my team to lead and review the application.
 - I work and learn well without close supervision, and I would rather explain a fix so someone understands it than simply apply it for them.
@@ -30,7 +30,7 @@ I am looking for a remote junior role in software development or system administ
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[NixOS-Public](https://github.com/BenjaminSLS/NixOS-Public)** | A declarative NixOS desktop — packages, services, dotfiles, and secrets defined in code, rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager |
+| **[NixOS-Public](https://github.com/BenjaminSLS/NixOS-Public)** | A declarative NixOS desktop — packages, services, and dotfiles defined in code before being rebuilt atomically from a pinned `flake.lock`. | Nix, NixOS, Home Manager |
 | **[CLI-Escape](https://github.com/BenjaminSLS/CLI-Escape)** | A command-line escape game with modular code and clean terminal UX. | Python |
 | **[Select-the-Star](https://github.com/BenjaminSLS/Select-the-Star)** | A command-line game where the user has to choose the row and column the star has been placed in. | Python |
 
@@ -53,6 +53,5 @@ I am looking for a remote junior role in software development or system administ
 - **LinkedIn:** [linkedin.com/in/benjamin-lashell](https://www.linkedin.com/in/benjamin-lashell/)
 - **GitHub:** [github.com/BenjaminSLS](https://github.com/BenjaminSLS)
 - **Bluesky:** [bsky.app/profile/benjaminsls.tngl.sh](https://bsky.app/profile/benjaminsls.tngl.sh)
-- **Tangled:** [tangled.org/benjaminsls.tngl.sh](https://tangled.org/benjaminsls.tngl.sh)
 
 <sub>Last updated: October 2026</sub>
